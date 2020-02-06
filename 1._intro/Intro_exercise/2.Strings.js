@@ -34,3 +34,13 @@ var fact = "You are learning javascript!";
 var capJ = fact.replace('j' , 'J');
 
 console.log(capJ);
+
+// JSON object inklusiv nested objekt
+//
+// {
+//    "key": "values",
+//    "key2": 123
+//    "key3": {
+//       "anotherkey": 45
+//    }
+// }
